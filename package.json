@@ -1,6 +1,6 @@
 {
   "homepage": "http://giruta.github.io/money-calc",
-  "name": "calc-money",
+  "name": "money-calc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
