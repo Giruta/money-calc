@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/calc-money/static/css/main.9e034465.chunk.css",
+    "main.js": "/calc-money/static/js/main.8fd17282.chunk.js",
+    "main.js.map": "/calc-money/static/js/main.8fd17282.chunk.js.map",
+    "runtime-main.js": "/calc-money/static/js/runtime-main.b19a42aa.js",
+    "runtime-main.js.map": "/calc-money/static/js/runtime-main.b19a42aa.js.map",
+    "static/js/2.42df7b18.chunk.js": "/calc-money/static/js/2.42df7b18.chunk.js",
+    "static/js/2.42df7b18.chunk.js.map": "/calc-money/static/js/2.42df7b18.chunk.js.map",
+    "index.html": "/calc-money/index.html",
+    "precache-manifest.21f9575992de07889ae9523c2f745d8d.js": "/calc-money/precache-manifest.21f9575992de07889ae9523c2f745d8d.js",
+    "service-worker.js": "/calc-money/service-worker.js",
+    "static/css/main.9e034465.chunk.css.map": "/calc-money/static/css/main.9e034465.chunk.css.map",
+    "static/js/2.42df7b18.chunk.js.LICENSE.txt": "/calc-money/static/js/2.42df7b18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b19a42aa.js",
+    "static/js/2.42df7b18.chunk.js",
+    "static/css/main.9e034465.chunk.css",
+    "static/js/main.8fd17282.chunk.js"
+  ]
+}
